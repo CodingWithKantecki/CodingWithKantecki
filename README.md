@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Thomas+Kantecki;Computer+Science+Student;Healthcare+Tech+Developer;AI+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Thomas+Kantecki;Health+Informatics+Student;Healthcare+Tech+Developer;AI+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Science student at the University of Central Florida specializing in healthcare technology, cybersecurity, and full-stack development. Experienced in healthcare compliance standards and building innovative solutions for the medical industry.
+Health Informatics student at the University of Central Florida specializing in healthcare technology, cybersecurity, and full-stack development. Experienced in healthcare compliance standards and building innovative solutions for the medical industry.
 
 <div align="center">
   

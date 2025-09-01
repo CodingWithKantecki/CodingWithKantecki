@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey, I'm Thomas!</h1>
 <p align="center">
   <b>Health Informatics Student • ML/AI Engineer • Full-Stack Dev</b><br/>
-  Turning healthcare data into insights and building the next-gen health tech stack 🚀
+  
 </p>
 
 ---

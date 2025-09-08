@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey, I'm Thomas!</h1>
 <p align="center">
-  <b>Health Informatics Student • ML/AI Engineer • Full-Stack Dev</b><br/>
+  <b>Health Informatics Student • Full-Stack Dev</b><br/>
   
 </p>
 

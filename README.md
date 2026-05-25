@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey, I'm Thomas!</h1>
 <p align="center">
-  <b>I like SQL and Python :)</b><br/>
+  <b>I like SQL and Python </b><br/>
   
 </p>
 
